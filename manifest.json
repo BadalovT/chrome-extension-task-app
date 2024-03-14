@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Amazon Product Scraper",
+  "version": "1.0",
+  "description": "Scrapes product data from Amazon product pages",
+  "action": {
+    "default_popup": "popup.html",
+    "options_ui": {
+      "page": "options.html"
+    }
+  }
+}
